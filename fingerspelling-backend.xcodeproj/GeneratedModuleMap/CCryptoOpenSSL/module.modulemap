@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/bogdan/Work/License/Backend/fingerspelling-backend/.build/checkouts/crypto.git-5320094506865986321/Sources/CCryptoOpenSSL/include"
+    export *
+}

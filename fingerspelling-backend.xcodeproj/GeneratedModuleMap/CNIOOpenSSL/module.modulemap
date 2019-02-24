@@ -1,0 +1,4 @@
+module CNIOOpenSSL {
+    umbrella "/Users/bogdan/Work/License/Backend/fingerspelling-backend/.build/checkouts/swift-nio-ssl.git-7177381511646589151/Sources/CNIOOpenSSL/include"
+    export *
+}
